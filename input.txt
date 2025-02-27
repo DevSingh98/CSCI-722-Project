@@ -1,0 +1,7 @@
+First name | Last name | id Number | age | Lives in New York?
+Ethan | Jackson | 1234567880 | 26 | true
+John | Smith | 1234567881 | 30 | false
+William | Smith | 1234567882 | 70 | true
+Bill | Rossman | 1234567883 | 50 | false
+Gina | Smith | 1234567884 | 46 | false
+John | Doe | 12345678805 | 36 | false
