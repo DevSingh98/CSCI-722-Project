@@ -10,7 +10,7 @@ This is a Java-based Membership Management System that allows users to read and 
 - Store member information in a `Hashtable`.
 - Add new members dynamically via command-line arguments.
 - Write member details to an output file.
-- Prevent duplicate IDs.
+- Prevent duplicate IDs. (Phone number is the ID)
 - Optionally print the most recently added member.
 - Optionally print all members to the specified output file.
 
